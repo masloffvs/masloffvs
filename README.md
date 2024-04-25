@@ -7,3 +7,5 @@ I currently work part-time maintaining and releasing small and other utilities o
 My favorite commercial projects:
 
 - p4p3r.com (in the future paper analytics)
+
+of the large utilities that have been opened in open source: AppleMachine (Mac virtual machines), taser (alpha) and SOUL repositories will soon be opened
